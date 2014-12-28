@@ -3,7 +3,7 @@ blender-vhs-filter
 
 A VHS tape noise filter node for Blender. Note this filter adds noise, not reduce noise.
 
-..image:: example.png
+.. image:: example.png
 
 
 This is a blend file containing 3 compositing group nodes:
